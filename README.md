@@ -5,8 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aSHUTOSHmALI-27&layout=compact)    
 ![](https://streak-stats.demolab.com/?user=AshutoshMali-27&theme=default))
 
-### Front End Technologies-: 
-![](https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png)
+
 
 <!---![GitHub Logo](https://github.com/github.png) --!>
 <!--

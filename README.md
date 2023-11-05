@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://leetcard.jacoblin.cool/Ashutosh_Mali?ext=heatmap)
+![](https://github-readme-stats.vercel.app/api?username=AshutoshMali-27&theme=light&show_icons=true)
 
 <!--
 **AshutoshMali-27/AshutoshMali-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

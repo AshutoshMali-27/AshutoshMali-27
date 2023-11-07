@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=AshutoshMali-27&theme=light&show_icons=true)
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aSHUTOSHmALI-27&layout=compact)    
-![](https://streak-stats.demolab.com/?user=AshutoshMali-27&theme=default))
+![](https://streak-stats.demolab.com/?user=AshutoshMali-27&theme=default)
 
 
 

@@ -23,9 +23,6 @@
  📫 How to reach me: [ashutoshmali67@gmail.com](mailto:ashutoshmali67@gmail.com)
 <!-- # - 📝 I regularly write articles on [Medium](https://medium.com/@vishwajitsayambar)  
 
-## - 📫 How to reach me: [vishwajitsayambar@gmail.com](mailto:vishwajitsayambar@gmail.com)
-
-
 ### Connect with me:
 
 <p align="left">
